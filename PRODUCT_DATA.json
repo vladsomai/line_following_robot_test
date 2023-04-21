@@ -47,7 +47,7 @@
             {
                 "version": "V1",
                 "type": "partial_product",
-                "web_page_template": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R2/V1/web_template.html",
+                "web_page_template": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/light_template.html",
                 "picture": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R2/V1/pcb_picture_side.jpg",
                 "description": "This product is able to control a servo motor",
                 "schamatic": "https://raw.githubusercontent.com/tomrodinger/line_following_robot/main/PCB/V10/schematic.pdf",
@@ -68,7 +68,7 @@
             {
                 "version": "V2",
                 "type": "partial_product",
-                "web_page_template": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R2/V1/web_template.html",
+                "web_page_template": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/light_template.html",
                 "picture": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R2/V2/pcb_picture_top.jpg",
                 "description": "This product is able to control a servo motor, improved performance",
                 "schamatic": "https://raw.githubusercontent.com/tomrodinger/line_following_robot/main/PCB/V10/schematic.pdf",
