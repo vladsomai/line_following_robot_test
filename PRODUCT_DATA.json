@@ -1,0 +1,120 @@
+[
+    {
+        "product": "R1",
+        "versions": [
+            {
+                "version": "V1",
+                "type": "full_product",
+                "web_page_template": "https://github.com/tomrodinger/line_following_robot/blob/main/PCB/V10/user-manual.pdf",
+                "picture": "https://github.com/tomrodinger/line_following_robot/blob/main/PCB/V10/robot.jpg",
+                "description": "This is a robot that follows a line. Multiple robots can share a track, communicate, and avoid collisions.",
+                "schamatic": "https://github.com/tomrodinger/line_following_robot/blob/main/PCB/V10/schematic.pdf",
+                "user_manual": "https://github.com/tomrodinger/line_following_robot/blob/main/PCB/V10/user-manual.pdf",
+                "tutorial": "https://servo-tutorial.netlify.app/",
+                "firmwares": [
+                    {
+                        "version": "0.2.3",
+                        "compatibility": 0,
+                        "date": "September 29, 2022",
+                        "description": "A firmware for the Robot",
+                        "url": "robot_application.bin",
+                        "sha256": "43f6df3f42ae0582b1331c3ebc3eec1662dc2a7740039b04128bb06d5931dac9"
+                    },
+                    {
+                        "version": "0.2.3",
+                        "compatibility": 0,
+                        "date": "September 29, 2022",
+                        "description": "Robot can follow a line. No audio playing.",
+                        "url": "robot_application_medium_volume.bin",
+                        "sha256": "42bc5b4df78ad032ab15f4badfa974cfbd40519554dcdd277b5994c3bcc4ed25"
+                    },
+                    {
+                        "version": "0.2.3",
+                        "compatibility": 0,
+                        "date": "September 29, 2022",
+                        "description": "Robot can follow a line. No audio playing.",
+                        "url": "robot_application_no_audio.bin",
+                        "sha256": "b1374c3d764bb456661480f8d7fb871967202f30528dc16ed80daefd17b34945"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "product": "R2",
+        "versions": [
+            {
+                "version": "V1",
+                "type": "full_product",
+                "web_page_template": "web_template.html",
+                "picture": "pcb_picture_side.jpg",
+                "description": "This product is able to control a servo motor",
+                "schamatic": "schematic.pdf",
+                "user_manual": "user-manual.pdf",
+                "tutorial": "https://servo-tutorial.netlify.app/",
+                "firmwares": [
+                    {
+                        "version": "0.2.3",
+                        "compatibility": 0,
+                        "date": "September 29, 2022",
+                        "description": "A firmware for the Robot",
+                        "url": "robot_application.bin",
+                        "sha256": "43f6df3f42ae0582b1331c3ebc3eec1662dc2a7740039b04128bb06d5931dac9"
+                    },
+                    {
+                        "version": "0.2.3",
+                        "compatibility": 0,
+                        "date": "September 29, 2022",
+                        "description": "Robot can follow a line. No audio playing.",
+                        "url": "robot_application_medium_volume.bin",
+                        "sha256": "42bc5b4df78ad032ab15f4badfa974cfbd40519554dcdd277b5994c3bcc4ed25"
+                    },
+                    {
+                        "version": "0.2.3",
+                        "compatibility": 0,
+                        "date": "September 29, 2022",
+                        "description": "Robot can follow a line. No audio playing.",
+                        "url": "robot_application_no_audio.bin",
+                        "sha256": "b1374c3d764bb456661480f8d7fb871967202f30528dc16ed80daefd17b34945"
+                    }
+                ]
+            },
+            {
+                "version": "V2",
+                "type": "full_product",
+                "web_page_template": "web_template.html",
+                "picture": "pcb_picture_top.jpg",
+                "description": "This product is able to control a servo motor, improved performance",
+                "schamatic": "schematic.pdf",
+                "user_manual": "NA.pdf",
+                "tutorial": "NA",
+                "firmwares": [
+                    {
+                        "version": "0.2.3",
+                        "compatibility": 0,
+                        "date": "September 29, 2022",
+                        "description": "A firmware for the Robot",
+                        "url": "robot_application.bin",
+                        "sha256": "43f6df3f42ae0582b1331c3ebc3eec1662dc2a7740039b04128bb06d5931dac9"
+                    },
+                    {
+                        "version": "0.2.3",
+                        "compatibility": 0,
+                        "date": "September 29, 2022",
+                        "description": "Robot can follow a line. No audio playing.",
+                        "url": "robot_application_medium_volume.bin",
+                        "sha256": "42bc5b4df78ad032ab15f4badfa974cfbd40519554dcdd277b5994c3bcc4ed25"
+                    },
+                    {
+                        "version": "0.2.3",
+                        "compatibility": 0,
+                        "date": "September 29, 2022",
+                        "description": "Robot can follow a line. No audio playing.",
+                        "url": "robot_application_no_audio.bin",
+                        "sha256": "b1374c3d764bb456661480f8d7fb871967202f30528dc16ed80daefd17b34945"
+                    }
+                ]
+            }
+        ]
+    }
+]
