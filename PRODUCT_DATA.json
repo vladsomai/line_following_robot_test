@@ -11,6 +11,7 @@
                 "schamatic": "https://raw.githubusercontent.com/tomrodinger/line_following_robot/main/PCB/V10/schematic.pdf",
                 "user_manual": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R1/V1/user-manual.pdf",
                 "tutorial": "https://servo-tutorial.netlify.app/",
+                "github": "https://github.com/tomrodinger/line_following_robot/tree/main/PCB/V10",
                 "firmwares": [
                     {
                         "version": "0.2.3",
@@ -52,6 +53,7 @@
                 "schamatic": "https://raw.githubusercontent.com/tomrodinger/line_following_robot/main/PCB/V10/schematic.pdf",
                 "user_manual": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R2/V1/user-manual.pdf",
                 "tutorial": "https://servo-tutorial.netlify.app/",
+                "github": "https://github.com/tomrodinger/line_following_robot/tree/main/PCB/V10",
                 "firmwares": [
                     {
                         "version": "0.2.3",
@@ -72,6 +74,7 @@
                 "schamatic": "https://raw.githubusercontent.com/tomrodinger/line_following_robot/main/PCB/V10/schematic.pdf",
                 "user_manual": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R2/V2/user-manual.pdf",
                 "tutorial": "https://servo-tutorial.netlify.app/",
+                "github": "https://github.com/tomrodinger/line_following_robot/tree/main/PCB/V10",
                 "firmwares": [
                     {
                         "version": "0.2.3",
