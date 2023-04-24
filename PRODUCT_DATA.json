@@ -18,7 +18,7 @@
                         "compatibility": 0,
                         "date": "September 9, 2021",
                         "description": "Initial firmware for the Robot",
-                        "url": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R1/firmware/0.2.3.bin",
+                        "url": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R1/firmware/0.2.3.firmware",
                         "sha256": "43f6df3f42ae0582b1331c3ebc3eec1662dc2a7740039b04128bb06d5931dac9"
                     },
                     {
@@ -26,7 +26,7 @@
                         "compatibility": 0,
                         "date": "September 2, 2022",
                         "description": "Robot can now follow a line. No audio playing.",
-                        "url": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R1/firmware/0.2.4.bin",
+                        "url": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R1/firmware/0.2.4.firmware",
                         "sha256": "42bc5b4df78ad032ab15f4badfa974cfbd40519554dcdd277b5994c3bcc4ed25"
                     },
                     {
@@ -34,7 +34,7 @@
                         "compatibility": 0,
                         "date": "September 29, 2023",
                         "description": "Fixed oject detection bug.",
-                        "url": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R1/firmware/0.2.5.bin",
+                        "url": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R1/firmware/0.2.5.firmware",
                         "sha256": "b1374c3d764bb456661480f8d7fb871967202f30528dc16ed80daefd17b34945"
                     }
                 ]
@@ -60,7 +60,7 @@
                         "compatibility": 0,
                         "date": "September 29, 2022",
                         "description": "Initial firmware for the servo motor",
-                        "url": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R2/firmware/servo-motor-fw.bin",
+                        "url": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R2/firmware/servo-motor-fw.firmware",
                         "sha256": "43f6df3f42ae0582b1331c3ebc3eec1662dc2a7740039b04128bb06d5931dac9"
                     }
                 ]
