@@ -1,9 +1,9 @@
 [
     {
-        "product": "R1",
+        "product": "optic_sensor",
         "versions": [
             {
-                "version": "V1",
+                "version": "V5",
                 "type": "full_product",
                 "web_page_template": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/dark_template.html",
                 "picture": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R1/V1/robot.jpg",
@@ -42,14 +42,14 @@
         ]
     },
     {
-        "product": "R2",
+        "product": "iphone",
         "versions": [
             {
-                "version": "V1",
+                "version": "5s",
                 "type": "partial_product",
                 "web_page_template": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/light_template.html",
                 "picture": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R2/V1/pcb_picture_side.jpg",
-                "description": "This product is able to control a servo motor",
+                "description": "Iphone 5s",
                 "schamatic": "https://raw.githubusercontent.com/tomrodinger/line_following_robot/main/PCB/V10/schematic.pdf",
                 "user_manual": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R2/V1/user-manual.pdf",
                 "tutorial": "https://servo-tutorial.netlify.app/",
@@ -66,11 +66,11 @@
                 ]
             },
             {
-                "version": "V2",
+                "version": "12_mini",
                 "type": "partial_product",
                 "web_page_template": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/light_template.html",
                 "picture": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R2/V2/pcb_picture_top.jpg",
-                "description": "This product is able to control a servo motor, improved performance",
+                "description": "Iphone mini",
                 "schamatic": "https://raw.githubusercontent.com/tomrodinger/line_following_robot/main/PCB/V10/schematic.pdf",
                 "user_manual": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R2/V2/user-manual.pdf",
                 "tutorial": "https://servo-tutorial.netlify.app/",
