@@ -1,6 +1,6 @@
 [
     {
-        "product": "optic_sensor",
+        "product": "opticsensor",
         "versions": [
             {
                 "version": "V5",
@@ -66,7 +66,7 @@
                 ]
             },
             {
-                "version": "12_mini",
+                "version": "12mini",
                 "type": "partial_product",
                 "web_page_template": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/light_template.html",
                 "picture": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R2/V2/pcb_picture_top.jpg",
