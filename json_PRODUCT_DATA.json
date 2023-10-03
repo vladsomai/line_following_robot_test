@@ -1,0 +1,92 @@
+[
+    {
+        "product": "opticsensor",
+        "versions": [
+            {
+                "version": "V5",
+                "type": "full_product",
+                "video": "https://player.vimeo.com/video/867609894?h=17434b55fd",
+                "web_page_template": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/dark_template.html",
+                "picture": ["https://m.media-amazon.com/images/I/51DBd7O6GEL._AC_UF894,1000_QL80_.jpg","https://s13emagst.akamaized.net/products/21735/21734395/images/res_794bf6d60a175773874b58a01c7b6d75.jpg"],
+                "description": "This is a robot that follows a line. Multiple robots can share a track, communicate, and avoid collisions.",
+                "schematic": "https://raw.githubusercontent.com/tomrodinger/line_following_robot/main/PCB/V10/schematic.pdf",
+                "user_manual": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R1/V1/user-manual.pdf",
+                "tutorial": "https://servo-tutorial.netlify.app/",
+                "github": "https://github.com/tomrodinger/line_following_robot/tree/main/PCB/V10",
+                "firmwares": [
+                    {
+                        "version": "0.2.3",
+                        "compatibility": 0,
+                        "date": "September 9, 2021",
+                        "description": "Initial firmware for the Robot",
+                        "url": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R1/firmware/0.2.3.firmware",
+                        "sha256": "43f6df3f42ae0582b1331c3ebc3eec1662dc2a7740039b04128bb06d5931dac9"
+                    },
+                    {
+                        "version": "0.2.4",
+                        "compatibility": 0,
+                        "date": "September 2, 2022",
+                        "description": "Robot can now follow a line. No audio playing.",
+                        "url": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R1/firmware/0.2.4.firmware",
+                        "sha256": "42bc5b4df78ad032ab15f4badfa974cfbd40519554dcdd277b5994c3bcc4ed25"
+                    },
+                    {
+                        "version": "0.2.5",
+                        "compatibility": 0,
+                        "date": "September 29, 2023",
+                        "description": "Fixed oject detection bug.",
+                        "url": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R1/firmware/0.2.5.firmware",
+                        "sha256": "b1374c3d764bb456661480f8d7fb871967202f30528dc16ed80daefd17b34945"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "product": "iphone",
+        "versions": [
+            {
+                "version": "5s",
+                "type": "partial_product",
+                "web_page_template": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/light_template.html",
+                "picture": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R2/V1/pcb_picture_side.jpg",
+                "description": "Iphone 5s",
+                "schematic": "https://raw.githubusercontent.com/tomrodinger/line_following_robot/main/PCB/V10/schematic.pdf",
+                "user_manual": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R2/V1/user-manual.pdf",
+                "tutorial": "https://servo-tutorial.netlify.app/",
+                "github": "https://github.com/tomrodinger/line_following_robot/tree/main/PCB/V10",
+                "firmwares": [
+                    {
+                        "version": "0.2.3",
+                        "compatibility": 0,
+                        "date": "September 29, 2022",
+                        "description": "Initial firmware for the servo motor",
+                        "url": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R2/firmware/servo-motor-fw.firmware",
+                        "sha256": "43f6df3f42ae0582b1331c3ebc3eec1662dc2a7740039b04128bb06d5931dac9"
+                    }
+                ]
+            },
+            {
+                "version": "12mini",
+                "type": "partial_product",
+                "web_page_template": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/light_template.html",
+                "picture": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R2/V2/pcb_picture_top.jpg",
+                "description": "Iphone mini",
+                "schematic": "https://raw.githubusercontent.com/tomrodinger/line_following_robot/main/PCB/V10/schematic.pdf",
+                "user_manual": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R2/V2/user-manual.pdf",
+                "tutorial": "https://servo-tutorial.netlify.app/",
+                "github": "https://github.com/tomrodinger/line_following_robot/tree/main/PCB/V10",
+                "firmwares": [
+                    {
+                        "version": "0.2.3",
+                        "compatibility": 0,
+                        "date": "September 29, 2022",
+                        "description": "Initial firmware for the servo motor",
+                        "url": "https://raw.githubusercontent.com/vladsomai/test_line_following_robot/main/Products/R2/firmware/servo-motor-fw.bin",
+                        "sha256": "43f6df3f42ae0582b1331c3ebc3eec1662dc2a7740039b04128bb06d5931dac9"
+                    }
+                ]
+            }
+        ]
+    }
+]
